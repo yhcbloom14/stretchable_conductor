@@ -10,3 +10,4 @@ Codes for "Machine Intelligence-Accelerated Design of Conductive Interlayers for
 - ```active_learning.ipynb```: Fabrication parameter generation in active learning
 - ```shap_plotting.ipynb```: SHAP analysis
 - ```clustering_analysis.ipynb```: Reverse design based on performance requirements
+- ```number_of_experiments_for_design_of_experiment.ipynb```: Calculate the number of experiments for the experimental design 
